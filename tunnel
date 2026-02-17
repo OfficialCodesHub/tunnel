@@ -3,7 +3,7 @@
 #  AyushTheWarrior Tunnel v1.0 - Advanced Port Forwarding
 # ══════════════════════════════════════════════════════════════════
 
-SERVER="57.128.42.40"
+SERVER="57.128.72.50"
 USER="tunnel"
 SSH_PORT=22
 
