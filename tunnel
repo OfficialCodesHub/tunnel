@@ -7,7 +7,7 @@ SERVER="15.206.28.200"
 USER="ubuntu" 
 SSH_PORT=22
 
-CONFIG_DIR="$HOME/.atherix-tunnel"
+CONFIG_DIR="$HOME/.astranode-tunnel"
 KEY_FILE="$CONFIG_DIR/.key"
 LOG_DIR="$CONFIG_DIR/logs"
 PID_DIR="$CONFIG_DIR/pids"
