@@ -3,7 +3,7 @@
 #  AyushTheWarrior Tunnel v1.0 - Advanced Port Forwarding
 # ══════════════════════════════════════════════════════════════════
 
-SERVER="13.200.235.245"
+SERVER="teri"
 USER="ubuntu" 
 SSH_PORT=22
 
