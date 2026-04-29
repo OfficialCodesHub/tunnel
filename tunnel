@@ -3,8 +3,8 @@
 #  AyushTheWarrior Tunnel v1.0 - Advanced Port Forwarding
 # ══════════════════════════════════════════════════════════════════
 
-SERVER="teri"
-USER="ubuntu" 
+SERVER="103.165.11.27"
+USER="root" 
 SSH_PORT=22
 
 CONFIG_DIR="$HOME/.astranode-tunnel"
